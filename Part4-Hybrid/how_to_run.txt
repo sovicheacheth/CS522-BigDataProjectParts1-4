@@ -1,0 +1,14 @@
+Go to Terminal and run below command
+
+$ ./input.sh
+$ ./run.sh
+$ ./output.sh
+
+Files detail:
+Source code file: Hybrid.java
+Jar file: Hybrid.jar
+Customer data input: input.txt
+Batch file put input.txt into hdfs: input.sh
+Batch file to run jar file: run.sh
+Batch file to get output from hdfs (part-r-00000): output.sh
+
